@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ved :)</h1>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif?cid=ecf05e47ncis8z9zlidfvjyk8vhs286q3dw56bd55b4nrtwl&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 Machine Learning | Data Science Enthusiast 🤖<br>Dedicated to unraveling the mysteries of data through machine learning algorithms and statistical analysis. 📊 As a computer science student, I am deeply engaged in the realm of artificial intelligence, with a focus on crafting intelligent solutions. 🧠 Currently specializing in machine learning and data science, I am passionate about leveraging data to derive meaningful insights. Excited to collaborate on innovative projects and contribute to the ever-evolving landscape of technology. Let's connect and explore the fascinating world of machine learning! 🤝<br><br>Contact: vedthakarx@gmail.com
 
 
